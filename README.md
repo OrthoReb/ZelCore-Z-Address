@@ -39,7 +39,6 @@
 
 ![Example-OS](https://i.imgur.com/F1h9w7p.jpg.png)
 
-
 ***
 
 ***Step 5***
@@ -51,5 +50,15 @@
 
 ***
 
+***Step 6***
+* **Click on 'Send' if you want to transfer your rewards to a transparent address (full node or light address)**
 
+![Example-OS](https://i.imgur.com/X6U0hWQ.jpg.jpg.png)
+
+***
+
+***Step 7***
+* **Select your z address in the 'From' section, and use the down arrow in the 'To' section to pick a t address**
+
+![Example-OS](https://imgur.com/Aa0o9ov.png)
 
