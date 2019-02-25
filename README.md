@@ -62,3 +62,15 @@
 
 ![Example-OS](https://imgur.com/Aa0o9ov.png)
 
+***
+
+***Make a new transparent address when sending your shielded coins to a full node t address***
+
+![Example-OS](https://i.imgur.com/gbZ63u1.jpg.png)
+
+***
+
+***ALWAYS BACKUP YOUR WALLET.DAT AND SAVE PRIVATE KEY WHEN GENERATING NEW ADDRESSES!!!!!!!!!!!!!!!!!***
+
+***
+
