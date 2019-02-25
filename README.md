@@ -8,7 +8,7 @@
 
 ## Creating Sapling Address in ZelCore Full Node Wallet
 ***Step 1***
-* **Click on 'Receiving Address'**
+* **Launch full node from light wallet, then click on 'Receiving Address'**
 
 ![Example-OS](https://i.imgur.com/X6U0hWQ.jpg.jpg.png)
 
