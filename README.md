@@ -30,11 +30,20 @@
 
 ***
 
-***Step 3***
-* **Click on 'Tools'**
+***Step 4***
+* **Insert private address from Step 3 and click on 'Shield'**
 
-![Example-OS](https://i.imgur.com/X6U0hWQ.jpg.jpg.png)
+![Example-OS](https://i.imgur.com/F1h9w7p.jpg.png)
 
+
+***
+
+***Step 5***
+* **Check transaction on explorer by clicking 'Show in explorer'**
+
+![Example-OS](https://i.imgur.com/hfBX7og.jpg.png)
+
+![Example-OS](https://i.imgur.com/St1tYWv.jpg.png)
 
 ***
 
