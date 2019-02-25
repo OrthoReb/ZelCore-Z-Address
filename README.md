@@ -10,7 +10,7 @@
 
 ***
 
-***Step 2 (if necessary)***
+***Step 2***
 * **Click on 'New Sapling Address'**
 
 ![Example-OS](https://i.imgur.com/gbZ63u1.jpg.png)
@@ -20,6 +20,6 @@
 ***Step 3***
 * **Click on 'Private Key'**
 
-![Example-OS](https://i.imgur.com/gbZ63u1.jpg.png)
+![Example-OS](https://i.imgur.com/YsYNZ1J.jpg.png)
 
 ***
