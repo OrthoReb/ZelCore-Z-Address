@@ -18,8 +18,25 @@
 ***
 
 ***Step 3***
-* **Click on 'Private Key'**
+* **Click on 'Private Key' and make multiple backups**
 
 ![Example-OS](https://i.imgur.com/YsYNZ1J.jpg.png)
 
 ***
+
+* **Click on 'Tools'**
+
+![Example-OS](https://i.imgur.com/X6U0hWQ.jpg.jpg.png)
+
+***
+
+***Step 3***
+* **Click on 'Tools'**
+
+![Example-OS](https://i.imgur.com/X6U0hWQ.jpg.jpg.png)
+
+
+***
+
+
+
