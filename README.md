@@ -16,6 +16,7 @@
 ***
 
 ***Step 2***
+
 ***Click on 'New Sapling Address'***
 
 ![Example-OS](https://i.imgur.com/gbZ63u1.jpg.png)
@@ -23,6 +24,7 @@
 ***
 
 ***Step 3***
+
 ***Click on 'Private Key' and make multiple backups***
 
 ![Example-OS](https://i.imgur.com/YsYNZ1J.jpg.png)
@@ -36,6 +38,7 @@
 ***
 
 ***Step 4***
+
 ***Insert private address from Step 3 and click on 'Shield'***
 
 ![Example-OS](https://i.imgur.com/F1h9w7p.jpg.png)
@@ -45,6 +48,7 @@
 ***
 
 ***Step 5***
+
 ***Check transaction on explorer by clicking 'Show in explorer'***
 
 ![Example-OS](https://i.imgur.com/hfBX7og.jpg.png)
@@ -54,6 +58,7 @@
 ***
 
 ***Step 6***
+
 ***Click on 'Send' if you want to transfer your rewards to a transparent address (full node or light address)***
 
 ![Example-OS](https://i.imgur.com/X6U0hWQ.jpg.jpg.png)
@@ -61,6 +66,7 @@
 ***
 
 ***Step 7***
+
 ***Select your z address in the 'From' section, and use the down arrow in the 'To' section to pick a t address***
 
 ![Example-OS](https://imgur.com/Aa0o9ov.png)
