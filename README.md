@@ -39,6 +39,8 @@
 
 ![Example-OS](https://i.imgur.com/F1h9w7p.jpg.png)
 
+***A NEW Z ADDRESS DOESN'T HAVE TO BE MADE EACH TIME, YOU CAN USE THE SAME ADDRESS AGAIN BY CLICKING ON 'SEND'***
+
 ***
 
 ***Step 5***
