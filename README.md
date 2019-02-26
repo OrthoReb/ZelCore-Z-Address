@@ -64,7 +64,7 @@
 
 ***
 
-***Make a new transparent address when sending your shielded coins to a full node t address.  It's not necessary to generate a new one for every reward, just don't use existing transparent addresses that are associated with the tx id of a ZelNode.***
+***Make a new transparent address when sending your shielded coins to a full node t address, or you can use an existing one in your light wallet.  It's not necessary to generate a new one for every reward, just don't use existing transparent addresses that are associated with the tx id of a ZelNode.***
 
 ![Example-OS](https://i.imgur.com/gbZ63u1.jpg.png)
 
