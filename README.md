@@ -39,6 +39,22 @@
 
 ***Step 4***
 
+***'Wallet Management'***
+
+![Example-OS](https://imgur.com/CzrzQkz.png)
+
+***
+
+***Step 5***
+
+***'Shield Coinbase'***
+
+![Example-OS](https://imgur.com/xFIyH5n.png)
+
+***
+
+***Step 6***
+
 ***Insert private address from Step 3 and click on 'Shield'***
 
 ![Example-OS](https://i.imgur.com/F1h9w7p.jpg.png)
@@ -47,7 +63,7 @@
 
 ***
 
-***Step 5***
+***Step 7***
 
 ***Check transaction on explorer by clicking 'Show in explorer'***
 
@@ -57,7 +73,7 @@
 
 ***
 
-***Step 6***
+***Step 8***
 
 ***Click on 'Send' if you want to transfer your rewards to a transparent address (full node or light address)***
 
@@ -65,7 +81,7 @@
 
 ***
 
-***Step 7***
+***Step 9***
 
 ***Select your z address in the 'From' section, and use the down arrow in the 'To' section to pick a t address***
 
